@@ -1,7 +1,7 @@
 #<>--------------------------------------------------<>
 #  K-Nearest Neighbors Algorithm
 # 
-# date: 24.11.2017
+# date: 2023
 # version:0.1
 # author: Jodavid Ferreira; Anny Kerollayny; Raydonal Ospina
 # e-mails: jdaf1@de.ufpe.com; akgr1@de.ufpe.br; raydonal@de.ufpe.br
